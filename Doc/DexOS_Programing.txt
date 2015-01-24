@@ -61,7 +61,7 @@ The following websites contain auxiliary information about DexOS and Flat
 Assembler.    
     
      DexOS:
-	 http://www.dex-os.com		    The home of DexOS
+	 http://dex-os.github.io		    The home of DexOS
 	 http://dex.7.forumer.com	    The DexOS Message Board/Forum
 	    
      Flat Assembler:	
